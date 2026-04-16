@@ -1,0 +1,5 @@
+.env
+.env.*
+*.env
+.adk
+.venv
